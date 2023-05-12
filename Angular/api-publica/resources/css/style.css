@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead {
+    background-color: #2b5fa3;
+    font-weight: bold;
+}
+
+thead th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+tbody td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #7893db;
+}
+
+select {
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px;
+}
