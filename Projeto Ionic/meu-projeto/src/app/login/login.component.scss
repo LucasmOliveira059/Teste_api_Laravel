@@ -1,0 +1,36 @@
+ion-item {
+    margin-top: 20px;
+  }
+  
+ion-button {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+ion-content {
+    --background: url('../../assets/Images/Tattoo_4U.png');
+    --background-repeat: no-repeat;
+    --background-position: center;
+    --opacity: 0.9;
+  }
+  
+  .tatoo-text{
+    color: #d516fc; /* Roxo escuro */
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  
+  }
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  .welcome-message {
+    color: #6d0539; /* Roxo escuro */
+    font-size: 16px;
+    align-content: center;
+  }  

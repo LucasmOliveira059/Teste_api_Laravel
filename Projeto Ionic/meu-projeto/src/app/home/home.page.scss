@@ -1,0 +1,48 @@
+ion-header {
+  ion-toolbar {
+    --color: #6c0082; /* Roxo escuro */
+  }
+}
+
+.tatoo-text{
+  color: #d516fc; /* Roxo escuro */
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+}
+.welcome-text {
+  color: #d400ff; /* Roxo escuro */
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.welcome-message {
+  color: #6d0539; /* Roxo escuro */
+  font-size: 16px;
+  align-content: center;
+}
+
+ion-content {
+  --background: url('../../assets/Images/Tattoo_4U.png');
+  --background-repeat: no-repeat;
+  --background-position: center;
+  --opacity: 0.9;
+}
+
+.login-register {
+  margin-top: 20px;
+  text-align: center;
+  color: #6d0539; /* Roxo escuro */
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.login-message, .register-message {
+  margin-bottom: 10px;
+  color: #6d0539; /* Roxo escuro */
+  font-size: 16px;
+  font-weight: bold;
+}
